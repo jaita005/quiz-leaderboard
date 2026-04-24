@@ -121,6 +121,10 @@ SUBMISSION RESULT
   message        : null
 ══════════════════════════════════════════════════════
 ```
+## Sample API Response
+
+<img width="2560" height="1366" alt="image" src="https://github.com/user-attachments/assets/39eed939-182a-4eff-b057-66f84244197d" />
+
 
 ---
 
